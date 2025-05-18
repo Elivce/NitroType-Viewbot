@@ -1,0 +1,24 @@
+
+# AutoTyper XYZ - ViewBot
+This is the downloadable version for our ViewBot on Nitrotype! 
+
+### Support
+- Discord: https://discord.gg/nitrotype
+- Lifetime Purchase: $25
+- Programmed By Elivce
+
+### Setup
+- [Download Python Version 3.11.5](https://www.python.org/downloads/release/python-3115/)
+- Download file and extract the zip file
+- Set up the config.json
+```json
+{
+    "XYZKEY": "", Your License Key
+    "CAPSOLVER_KEY": "" Capsolver Key
+}
+```
+- Open command prompt and run `pip install colorama fake-useragent cloudscraper websocket-client paramiko requests capsolver pycryptodome random-word`
+- Run main.py or start.bat
+
+Capsolver recommended for the console to work properly, please purchase a key [here](https://dashboard.capsolver.com/passport/register?inviteCode=StGPg6LhBb5j)
+Use code `ADSPOWER` for an extra 8% credits!
