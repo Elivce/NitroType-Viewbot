@@ -13,7 +13,7 @@ This is the downloadable version for our ViewBot on Nitrotype!
 - Set up the config.json
 ```json
 {
-    "XYZKEY": "", Your License Key
+    "LICENSE_KEY": "", Your License Key
     "CAPSOLVER_KEY": "" Capsolver Key
 }
 ```
