@@ -4,7 +4,7 @@ This is the downloadable version for our ViewBot on Nitrotype!
 
 ### Support
 - Discord: https://discord.gg/nitrotype
-- Lifetime Purchase: $25
+- Lifetime Purchase: $24.99
 - Programmed By Elivce
 
 ### Setup
@@ -19,6 +19,5 @@ This is the downloadable version for our ViewBot on Nitrotype!
 ```
 - Open command prompt and run `pip install colorama fake-useragent cloudscraper websocket-client paramiko requests capsolver pycryptodome random-word`
 - Run main.py or start.bat
-
-Capsolver recommended for the console to work properly, please purchase a key [here](https://dashboard.capsolver.com/passport/register?inviteCode=StGPg6LhBb5j)
-Use code `ADSPOWER` for an extra 8% credits!
+Capsolver is required for the bot to work properly, please purchase a key [here](https://dashboard.capsolver.com/passport/register?inviteCode=StGPg6LhBb5j)
+Use code `DATA` for an extra 5% credits!
