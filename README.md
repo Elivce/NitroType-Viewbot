@@ -9,6 +9,7 @@ This is the downloadable version for our ViewBot on Nitrotype!
 
 ### Setup
 - [Download Python Version 3.11.5](https://www.python.org/downloads/release/python-3115/)
+- BE SURE TO ADD PYTHON AS PATH WHEN INSTALLING PYTHON
 - Download file and extract the zip file
 - Set up the config.json
 ```json
