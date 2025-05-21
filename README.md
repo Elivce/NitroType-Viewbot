@@ -4,7 +4,7 @@ This is the downloadable version for our ViewBot on Nitrotype!
 
 ### Support
 - Discord: https://discord.gg/nitrotype
-- Lifetime Purchase: $24.99
+- Lifetime Purchase: $19.99
 - Programmed By Elivce
 
 ### Setup
