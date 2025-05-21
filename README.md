@@ -15,6 +15,7 @@ This is the downloadable version for our ViewBot on Nitrotype!
 {
     "LICENSE_KEY": "", Your License Key
     "CAPSOLVER_KEY": "" Capsolver Key
+    "OCULUS_PROXIES": false Set to (True or False)
 }
 ```
 - Open command prompt and run `pip install colorama fake-useragent cloudscraper websocket-client paramiko requests capsolver pycryptodome random-word`
