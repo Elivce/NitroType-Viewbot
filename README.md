@@ -15,7 +15,6 @@ This is the downloadable version for our ViewBot on Nitrotype!
 ```json
 {
     "LICENSE_KEY": "", Your License Key
-    "CAPSOLVER_KEY": "", Capsolver Key
     "OCULUS_PROXIES": false Set to (True or False)
 }
 ```
